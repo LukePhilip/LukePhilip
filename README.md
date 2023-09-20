@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @LukePhilip
+
+
+
 Goal 1: App Functionality
 Objective:
 - Ensure the core functionality of the school scheduling app is complete.
