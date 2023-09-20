@@ -4,7 +4,8 @@
 
 Goal 1: App Functionality
 Objective:
-- Ensure the core functionality of the school scheduling app is complete.-
+- Ensure the core functionality of the school scheduling app is complete.
+  
 Key Results:
 - Implement user registration system.
 - Create a user-friendly interface for adding, editing, and deleting information (Homework, Meetings) -> Implementing "CRUD+ER".
